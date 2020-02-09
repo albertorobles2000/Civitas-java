@@ -3,8 +3,7 @@
     Este material presenta el juego Civitas, una adaptación del juego de mesa Monopoly(c) de Hasbro,
     donde el objetivo es convertirse en el jugador más rico a través de la compra, alquiler y venta de
     propiedades.
-    En Civitas hay un tablero con 20 casillas de distintos tipos, un dado de 6 caras, casas, hoteles y
-    tarjetas sorpresa y pueden jugar de 2 a 4 jugadores. Los jugadores tratarán de amasar una gran
+    Los jugadores tratarán de amasar una gran
     cantidad de dinero hasta que alguno caiga en bancarrota. En ese momento se nombra al ganador,
     que será el que tenga mayor capital.
 # Inicio del juego y paso de turno
