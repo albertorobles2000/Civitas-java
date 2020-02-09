@@ -32,14 +32,14 @@
     ventas, de forma que podemos decir que un jugador es “propietario de una casilla” cuando es
     propietario de su título de propiedad.
 # Eventos que se producen al llegar a una casilla
-  SALIDA:
+    SALIDA:
     Hay una única casilla de este tipo y está al inicio del tablero. Es la casilla desde la que parten todos
     los jugadores al inicio de la partida.
     Cada vez que un jugador pasa por la casilla de SALIDA se le abonan 1.000€, a no ser que sea para
     ir a la cárcel, en cuyo caso no recibe dinero aunque haya pasado por la SALIDA. Es importante
     resaltar que el hecho que hace merecedores a los jugadores de la cantidad anteriormente indicada es
     que se le ha dado una vuelta completa al tablero y no el hecho de llegar a la salida en sí.
-  CALLE:
+    CALLE:
     Hay 12 casillas de tipo calle en el juego y cada una tiene asociado un título de propiedad. El coste
     de la casilla se toma del precio de compra de su título de propiedad. Cuando un jugador va a parar a
     una de estas casillas puede ocurrir:
@@ -47,22 +47,22 @@
     propiedad. Si lo compra, el jugador será el propietario de esa casilla.
     • Que otro jugador sea el dueño de la casilla. El jugador tendrá que pagar el alquiler
     correspondiente al propietario de la casilla.
-  SORPRESA:
+    SORPRESA:
     Hay 3 casillas de tipo SORPRESA. Cuando un jugador cae en una casilla sorpresa, levantará una
     carta del mazo de sorpresas y tendrá que hacer lo que esta indique. Si la carta es la de evitar la
     cárcel, se la podrá guardar para usarla más adelante. Todas las demás se tienen que devolver al
     mazo una vez cumplida la acción especificada en ellas.
-  JUEZ:
+    JUEZ:
     Hay una única casilla de este tipo. Cuando un jugador cae en esta casilla, el juez le envía a la cárcel
     y el jugador debe irse a la casilla CÁRCEL del tablero.
-  CÁRCEL:
+    CÁRCEL:
     Hay una única casilla de este tipo. En esta casilla estarán los jugadores que han sido enviados a la
     cárcel explícitamente. Si un jugador simplemente pasa por ella o cae en ella al tirar el dado, no se
     verá encarcelado y no tendrá que realizar ninguna acción.
-  IMPUESTO:
+    IMPUESTO:
     Cada vez que se caiga en una casilla de este tipo, el jugador verá decrementado su saldo en la
     cantidad que indique el coste de la casilla. Hay una sola casilla de este tipo en el juego.
-  DESCANSO:
+    DESCANSO:
     En esta casilla no hay que hacer nada, se trata simplemente de un lugar de descanso. Hay una sola
     casilla de este tipo en el juego.
 # Compra-venta de títulos de propiedades
