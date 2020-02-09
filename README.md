@@ -113,14 +113,3 @@
     por la SALIDA y no podrá seguir jugando en ese turno.
     Cuando le vuelva a tocar el turno, puede intentar salir pagando 200€ o tirando el dado y sacando un
     número mayor o igual que 5. Si no logra salir, no podrá seguir jugando en ese turno.
-# Diferencias entre Civitas y Monopoly(c)
-    Existen numerosas diferencias entre Civitas y Monopoly(c). Las más relevantes son:
-    • En Civitas no hay banca. Al jugador se le incrementa o decrementa el saldo
-    automáticamente sin que tenga que dar o pedir explícitamente el dinero a ningún otro
-    jugador o entidad especial.
-    • En Civitas no hay grupos de casillas. En Monopoly(c) las casillas están agrupadas por
-    colores y se pueden realizar acciones especiales según el grupo al que pertenezcan. En
-    Civitas las casillas son independientes unas de otras.
-    • En Civitas no hay comercio de propiedades entre jugadores. En Civitas un jugador no puede
-    vender sus títulos de propiedad, casas u hoteles a otro jugador. Cuando un jugador vende el
-    título de propiedad de una casilla, ésta se queda libre y puede ser comprada por otro jugador.
